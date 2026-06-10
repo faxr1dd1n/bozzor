@@ -1,4 +1,4 @@
-package com.example.bozzor
+package bozzor.pixeel.io
 
 import io.flutter.embedding.android.FlutterActivity
 
